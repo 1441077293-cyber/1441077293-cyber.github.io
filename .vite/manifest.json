@@ -1,6 +1,6 @@
 {
   "../../../Codex/2026-08-03/referenced-chatgpt-conversation-this-is-an/node_modules/.pnpm/vinext@0.0.50_@vitejs+plugi_ffbe4ce41a9241df977ffebdf8cfa45c/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-eRXnf7Pb.js",
+    "file": "assets/layout-segment-context-wAt0vO_1.js",
     "name": "layout-segment-context",
     "src": "../../../Codex/2026-08-03/referenced-chatgpt-conversation-this-is-an/node_modules/.pnpm/vinext@0.0.50_@vitejs+plugi_ffbe4ce41a9241df977ffebdf8cfa45c/node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -22,7 +22,7 @@
     "name": "rolldown-runtime"
   },
   "app/EnergyConfigurator.tsx": {
-    "file": "assets/EnergyConfigurator-BXQavPxn.js",
+    "file": "assets/EnergyConfigurator-Dy7ePen0.js",
     "name": "EnergyConfigurator",
     "src": "app/EnergyConfigurator.tsx",
     "isDynamicEntry": true,
@@ -32,7 +32,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-B8E9aeMe.js",
+    "file": "assets/index-CF8FjEpb.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
