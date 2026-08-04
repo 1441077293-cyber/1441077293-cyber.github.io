@@ -1,6 +1,6 @@
 {
   "../../../Codex/2026-08-03/referenced-chatgpt-conversation-this-is-an/node_modules/.pnpm/vinext@0.0.50_@vitejs+plugi_ffbe4ce41a9241df977ffebdf8cfa45c/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-lvCl1JVq.js",
+    "file": "assets/layout-segment-context-CULbHET7.js",
     "name": "layout-segment-context",
     "src": "../../../Codex/2026-08-03/referenced-chatgpt-conversation-this-is-an/node_modules/.pnpm/vinext@0.0.50_@vitejs+plugi_ffbe4ce41a9241df977ffebdf8cfa45c/node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -21,34 +21,34 @@
     "file": "assets/rolldown-runtime-S-ySWqyJ.js",
     "name": "rolldown-runtime"
   },
-  "_rules-KhT52ZGv.js": {
-    "file": "assets/rules-KhT52ZGv.js",
+  "_rules-D6RmcyvQ.js": {
+    "file": "assets/rules-D6RmcyvQ.js",
     "name": "rules"
   },
   "app/EnergyConfigurator.tsx": {
-    "file": "assets/EnergyConfigurator-DaFwR5Cx.js",
+    "file": "assets/EnergyConfigurator-uMCsR-5v.js",
     "name": "EnergyConfigurator",
     "src": "app/EnergyConfigurator.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-S-ySWqyJ.js",
       "_framework-DjPHiq1u.js",
-      "_rules-KhT52ZGv.js"
+      "_rules-D6RmcyvQ.js"
     ]
   },
   "app/mobile/MobileEnergyConfigurator.tsx": {
-    "file": "assets/MobileEnergyConfigurator-DI4lJF7L.js",
+    "file": "assets/MobileEnergyConfigurator-Dapfi7jI.js",
     "name": "MobileEnergyConfigurator",
     "src": "app/mobile/MobileEnergyConfigurator.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-S-ySWqyJ.js",
       "_framework-DjPHiq1u.js",
-      "_rules-KhT52ZGv.js"
+      "_rules-D6RmcyvQ.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-BT6o2gpn.js",
+    "file": "assets/index-DFyLBuzv.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
