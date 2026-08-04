@@ -1,6 +1,6 @@
 {
   "../../../Codex/2026-08-03/referenced-chatgpt-conversation-this-is-an/node_modules/.pnpm/vinext@0.0.50_@vitejs+plugi_ffbe4ce41a9241df977ffebdf8cfa45c/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "assets/layout-segment-context-wAt0vO_1.js",
+    "file": "assets/layout-segment-context-lvCl1JVq.js",
     "name": "layout-segment-context",
     "src": "../../../Codex/2026-08-03/referenced-chatgpt-conversation-this-is-an/node_modules/.pnpm/vinext@0.0.50_@vitejs+plugi_ffbe4ce41a9241df977ffebdf8cfa45c/node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -21,18 +21,34 @@
     "file": "assets/rolldown-runtime-S-ySWqyJ.js",
     "name": "rolldown-runtime"
   },
+  "_rules-KhT52ZGv.js": {
+    "file": "assets/rules-KhT52ZGv.js",
+    "name": "rules"
+  },
   "app/EnergyConfigurator.tsx": {
-    "file": "assets/EnergyConfigurator-Dy7ePen0.js",
+    "file": "assets/EnergyConfigurator-DaFwR5Cx.js",
     "name": "EnergyConfigurator",
     "src": "app/EnergyConfigurator.tsx",
     "isDynamicEntry": true,
     "imports": [
       "_rolldown-runtime-S-ySWqyJ.js",
-      "_framework-DjPHiq1u.js"
+      "_framework-DjPHiq1u.js",
+      "_rules-KhT52ZGv.js"
+    ]
+  },
+  "app/mobile/MobileEnergyConfigurator.tsx": {
+    "file": "assets/MobileEnergyConfigurator-DI4lJF7L.js",
+    "name": "MobileEnergyConfigurator",
+    "src": "app/mobile/MobileEnergyConfigurator.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-S-ySWqyJ.js",
+      "_framework-DjPHiq1u.js",
+      "_rules-KhT52ZGv.js"
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "assets/index-CF8FjEpb.js",
+    "file": "assets/index-BT6o2gpn.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,
@@ -43,6 +59,7 @@
     "dynamicImports": [
       "virtual:vinext-app-browser-entry",
       "app/EnergyConfigurator.tsx",
+      "app/mobile/MobileEnergyConfigurator.tsx",
       "../../../Codex/2026-08-03/referenced-chatgpt-conversation-this-is-an/node_modules/.pnpm/vinext@0.0.50_@vitejs+plugi_ffbe4ce41a9241df977ffebdf8cfa45c/node_modules/vinext/dist/shims/layout-segment-context.js"
     ]
   }
